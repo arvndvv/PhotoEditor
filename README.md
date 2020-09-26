@@ -1,7 +1,8 @@
-## Simple Photo Filtering using CSS filter and React.
-Reference: [ Web Dev Simplified](https://youtu.be/J243ncoInNE).
+
+
 # PhotoEditor
-A simple css based photo editor (demo) using react
+Reference: [ Web Dev Simplified](https://youtu.be/J243ncoInNE).
+Simple Photo Filtering using CSS filter and React.
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
