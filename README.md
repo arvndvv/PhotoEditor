@@ -5,6 +5,10 @@ Simple Photo Filtering using CSS filter and React.
 <br>
 Reference: [ Web Dev Simplified](https://youtu.be/J243ncoInNE).
 
+## OUTPUT
+<img src="filter1.png" height="500px" alt="sample1"/>
+<img src="filter2.png" height="500px" alt="sample2"/>
+
 ## Available Scripts
 
 In the project directory, you can run:
